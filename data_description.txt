@@ -1,0 +1,38 @@
+This file contains the description of variables used for the figures and regressions in research article “Exploring the mortality advantage of Jewish neighbourhoods in mid-nineteenth century Amsterdam” by Tim Riswick, Katalin Buzasi and Sanne Muurling (Radboud University, Nijmegen) published in Demographic Research
+
+1. neighborhood
+Identification label of neighborhoods used in administration,
+see for instance http://www.amsterdamhistorie.nl/kaarten/
+2. av_cdr
+Crude death rate averaged out over the period 1867-70. Crude death rate is the number of deaths by 10,000 residents. Source: Amsterdam Cause-of-death Database (ACD) - unpublished
+3. av_idr
+Infant death rate averaged out over the period 1867-70. Infant death rate is the number of infant deaths (age below 1 year) by 10,000 residents. Due to data unavailability at the neighborhood level we could not calculate this death rate by live births. Source: ACD
+4. av_resp_dr
+Death rates by 10,000 residents due to respiratory causes averaged out over the period 1867-70. Source: ACD
+5. av_diarrh_dr
+Death rates by 10,000 residents due to diarrheal causes averaged out over the period 1867-70. Source: ACD
+6. cholera_DR
+Death rate by 10,000 residents due to cholera in 1866. Source: ACD
+7. smallpox_DR
+Death rate by 10,000 residents due to smallpox in 1871. Source: ACD
+8. jewish_neighb2
+Binary variable coded as 1 if the share of household heads who identified as Jewish is above 50%. Source: 1851 Bevolkingsregister, data are available at https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:56559
+9. dens_1869
+Housing density is the average number of people by inhabitable building by neighborhood. The number of buildings is obtained from the census in 1869. Source: http://www.volkstellingen.nl/nl/volkstelling/jaarview/1869/index.html
+10. hospital
+Binary variable coded as 1 if at least one hospital was located in the neighborhood around 1871. Source: authors’ own compilation from multiple sources.
+11. birth_rate_Isr
+Birth rate by Israëls (1862).	 This value can be understood as how many residents on average “produce” one live birth. The higher the value, the lower the number of live birth by resident. Source: Israëls, A. H. De sterfte der kinderen in de drie eerste jaren des levens te Amsterdam, in de jaren 1850-1859. Ned Tijdschr Geneeskd. 1862;6:289-99” available at https://www.ntvg.nl/artikelen/de-sterfte-der-kinderen-de-drie-eerste-jaren-des-levens-te-amsterdam-de-jaren-1850-1859
+12. wealth_Isr
+The wealth status of neighborhoods by Israëls (1862).
+13. poor
+Binary variable coded as 1 if the wealth status by Israëls is “poor”.
+14. rather_poor
+Binary variable coded as 1 if the wealth status by Israëls is “rather poor”.
+15. rather_wealthy
+Binary variable coded as 1 if the wealth status by Israëls is “rather wealthy”.
+16. Wealthy
+Binary variable coded as 1 if the wealth status by Israëls is “wealthy”.
+
+
+
