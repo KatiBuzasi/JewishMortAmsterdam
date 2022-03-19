@@ -1,6 +1,6 @@
 # JewishMortAmsterdam
 
-This repository is related to research published by Tim Riswick, Katalin Buzasi and Sanne Muurling "Exploring the mortality advantage of Jewish neighbourhoods in mid-nineteenth century Amsterdam" forthcoming in demographic Research.
+This repository is related to research published by Tim Riswick, Katalin Buzasi and Sanne Muurling "Exploring the mortality advantage of Jewish neighbourhoods in mid-nineteenth century Amsterdam" forthcoming in Demographic Research.
 
 The codes replicate the figure and all regression models.
 
